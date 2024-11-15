@@ -1,4 +1,4 @@
-#### Read this in other languages: [English](https://github.com/zju-vipa/TCCI/blob/main/README.md), [中文](https://github.com/ShaolunYao/TCCI/blob/main/README_zh.md).
+#### Read this in other languages: [English](https://github.com/zju-vipa/TCCI/blob/main/README.md), [中文](https://github.com/zju-vipa/TCCI/blob/main/README_zh.md).
 
 # The Textile Category and Component Identification Dataset
 
