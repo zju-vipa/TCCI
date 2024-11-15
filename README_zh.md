@@ -1,4 +1,4 @@
-#### 在这里可以选择其他语言版本的项目说明: [English](https://github.com/ShaolunYao/TCCI/blob/main/README.md), [中文](https://github.com/ShaolunYao/TCCI/blob/main/README_zh.md).
+#### 在这里可以选择其他语言版本的项目说明: [English](https://github.com/zju-vipa/TCCI/blob/main/README.md), [中文](https://github.com/zju-vipa/TCCI/blob/main/README_zh.md).
 
 # 纺织品类别和成分识别数据集
 
